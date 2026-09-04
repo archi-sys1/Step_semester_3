@@ -71,12 +71,12 @@
   - Rotate Array
 - Organized the problems under the `basics.class_problems` package.
 **# Topic The question it answers**
-1 Creating an Array How do I ask Java for one variable that can hold many values?
-2 Initializing an Array. How do those many values actually get put in, and what's there before I put
+-1 Creating an Array How do I ask Java for one variable that can hold many values?
+-2 Initializing an Array. How do those many values actually get put in, and what's there before I put
 anything in?
-3 Accessing an Array How do I get one specific value back out, by position?
-4 Accessing Using a for Loop How do I reach every value, instead of typing out each index by hand?
-5 Modifying an Array What happens if I hand my array to a method — can it come back changed?
+-3 Accessing an Array How do I get one specific value back out, by position?
+-4 Accessing Using a for Loop How do I reach every value, instead of typing out each index by hand?
+-5 Modifying an Array What happens if I hand my array to a method — can it come back changed?
 - Pushed the Session 4 branch to GitHub.
 
 **Next Session Plan:**
